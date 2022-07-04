@@ -2,7 +2,7 @@ import React from "react";
 
 function Jumbotron(){
     return (
-<div className="container px-3 pt-4 pb-4">
+<div className="container px-3 pt-4 pb-4 mt-4 mb-4 bg-light">
   <div className="moda-dialog">
     <div className="moda-content">
       <div className="moda-header">

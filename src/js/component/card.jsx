@@ -2,7 +2,7 @@ import React from "react";
 
 function MyCard(){
     return (
-      <div className="container d-flex justify-content-center col col-sm-6 col-lg-3 mb-3">
+      <div className="container d-flex justify-content-center col col-sm-6 col-lg-3 mb-5">
         <div className="card" style={{width: "17rem"}}> 
           <img className="card-img-top" src="http://via.placeholder.com/500x325/%22" alt="500 x 325" /> 
           <div className="card-body">
